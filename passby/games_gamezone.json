@@ -1,6 +1,7 @@
 [
   {
     "title": "Assassin's Creed Black Flag Resynced",
+    "appid": 3751950,
     "image": "https://images.stopgame.ru/games/logos/44427/c448x448/cS6VNsrAw0JDFskYP0br4Q/assassins_creed_black_flag_resynced-square.jpg",
     "download_url": "https://download.luamanifest.com/fixes/creedresynced.zip",
     "category": "Ubisoft",
@@ -8,6 +9,7 @@
   },
   {
     "title": "Assassin's Creed Shadows",
+    "appid": 3159330,
     "image": "https://cdn2.steamgriddb.com/grid/8156c0fa4cf76c1452b7e75b57d69318.png",
     "download_url": "https://download.luamanifest.com/fixes/creedshadows.zip",
     "category": "Ubisoft",
@@ -15,6 +17,7 @@
   },
   {
     "title": "Avatar: Frontiers of Pandora",
+    "appid": 2840770,
     "image": "https://cdn2.steamgriddb.com/grid/0608e6241fcd68f251d8685af6e6b4cf.png",
     "download_url": "https://download.luamanifest.com/fixes/avatar.zip",
     "category": "Ubisoft",
@@ -22,6 +25,7 @@
   },
   {
     "title": "Crimson Desert",
+    "appid": 3321460,
     "image": "https://cdn2.steamgriddb.com/grid/16d0e5565572c83e0bc429147524b465.png",
     "download_url": "https://download.luamanifest.com/fixes/crimson.zip",
     "category": "Denuvo",
@@ -29,6 +33,7 @@
   },
   {
     "title": "Forza Horizon 6",
+    "appid": 2483190,
     "image": "https://cdn2.steamgriddb.com/grid/cd98f0e279d66f4d9acf0e3df40be97a.png",
     "download_url": "https://download.luamanifest.com/fixes/F6Bypass.zip",
     "category": "Other Games",
@@ -36,6 +41,7 @@
   },
   {
     "title": "Solo Leveling: Arise Overdrive",
+    "appid": 2373990,
     "image": "https://cdn2.steamgriddb.com/grid/803d6a194366c7f511f7220c0396a7c5.png",
     "download_url": "https://download.luamanifest.com/fixes/sololevel.zip",
     "category": "Other Games",
@@ -43,6 +49,7 @@
   },
   {
     "title": "007 First Light",
+    "appid": 3768760,
     "image": "https://cdn2.steamgriddb.com/grid/9cd0f2a7c17876d6721916f09bce496c.png",
     "download_url": "https://download.luamanifest.com/fixes/007.zip",
     "category": "Denuvo",
@@ -50,6 +57,7 @@
   },
   {
     "title": "Resident Evil Requiem",
+    "appid": 3764200,
     "image": "https://cdn2.steamgriddb.com/grid/cc6e7d0c4f62a13d5a51b8fe38b8be28.jpg",
     "download_url": "https://download.luamanifest.com/fixes/re9.zip",
     "category": "Denuvo",
@@ -57,6 +65,7 @@
   },
   {
     "title": "Pragmata",
+    "appid": 3357650,
     "image": "https://cdn2.steamgriddb.com/grid/2c655140a81f8a27d57576e3bf76fb90.png",
     "download_url": "https://download.luamanifest.com/fixes/pragmata.zip",
     "category": "Denuvo",
@@ -64,6 +73,7 @@
   },
   {
     "title": "Black Myth: Wukong",
+    "appid": 2358720,
     "image": "https://cdn2.steamgriddb.com/grid/fabfacba6533c990c29176be1d2abc54.png",
     "download_url": "https://download.luamanifest.com/fixes/wukong.zip",
     "category": "Denuvo",
@@ -71,6 +81,7 @@
   },
   {
     "title": "Mafia: The Old Country",
+    "appid": 1941540,
     "image": "https://cdn2.steamgriddb.com/grid/802bb5d12a44ebb63c0a48a5bf9ba380.png",
     "download_url": "https://download.luamanifest.com/fixes/mafiaoldcountry.zip",
     "category": "Denuvo",
@@ -78,6 +89,7 @@
   },
   {
     "title": "Stellar Blade",
+    "appid": 3489700,
     "image": "https://cdn2.steamgriddb.com/grid/44c949fd6c031820079421c414622806.png",
     "download_url": "https://download.luamanifest.com/fixes/stellar.zip",
     "category": "Denuvo",
@@ -85,6 +97,7 @@
   },
   {
     "title": "The First Berserker: Khazan",
+    "appid": 2680010,
     "image": "https://cdn2.steamgriddb.com/grid/87f22ef7349f8bc783fbaecb30429e4b.png",
     "download_url": "https://download.luamanifest.com/fixes/berserker.zip",
     "category": "Denuvo",
@@ -92,6 +105,7 @@
   },
   {
     "title": "Halo: Campaign Evolved",
+    "appid": 2806050,
     "image": "https://cdn2.steamgriddb.com/grid/9e00a3de909a5e4ada9324bc7aa1fea2.png",
     "download_url": "https://download.luamanifest.com/fixes/halo.zip",
     "category": "Other Games",
@@ -99,6 +113,7 @@
   },
   {
     "title": "LEGO Batman: Legacy of the Dark Knight",
+    "appid": 2215200,
     "image": "https://cdn2.steamgriddb.com/grid/0e4b1c1efa3eae61066f2fefe7bdf487.png",
     "download_url": "https://download.luamanifest.com/fixes/legobatman.zip",
     "category": "Other Games",
@@ -106,13 +121,15 @@
   },
   {
     "title": "EA Sports FC 26 Showcase",
+    "appid": 3629260,
     "image": "https://cdn2.steamgriddb.com/grid/484b32fe2022ee1feb6d4eeccd56a7a9.png",
-    "download_url": "https://download.luamanifest.com/fixes/BypassFC26Showcase.zip", 
+    "download_url": "https://download.luamanifest.com/fixes/BypassFC26Showcase.zip",
     "category": "EA",
     "description": ""
   },
   {
     "title": "Battlefield 6",
+    "appid": 2807960,
     "image": "https://cdn2.steamgriddb.com/grid/82e43901d337d05ef3ae610442c8606b.png",
     "download_url": "https://download.luamanifest.com/fixes/battle6.zip",
     "category": "EA",
@@ -120,6 +137,7 @@
   },
   {
     "title": "Hogwarts Legacy",
+    "appid": 990080,
     "image": "https://cdn2.steamgriddb.com/grid/6a88e8216b7627c700d928f1344e2270.jpg",
     "download_url": "https://download.luamanifest.com/fixes/hogwarts.zip",
     "category": "Denuvo",
@@ -127,6 +145,7 @@
   },
   {
     "title": "Star Wars Jedi Survivor",
+    "appid": 1774580,
     "image": "https://cdn2.steamgriddb.com/grid/230c6cdae328fffdc5be57ecf39ae943.png",
     "download_url": "https://download.luamanifest.com/fixes/warssurvivor.zip",
     "category": "EA",
@@ -134,6 +153,7 @@
   },
   {
     "title": "Assassin's Creed Mirage",
+    "appid": 3035570,
     "image": "https://cdn2.steamgriddb.com/grid/c101b3cd6b1831640ee21dcc88fcf278.jpg",
     "download_url": "https://download.luamanifest.com/fixes/creedmirage.zip",
     "category": "Ubisoft",
@@ -141,6 +161,7 @@
   },
   {
     "title": "Red Dead Redemption 2",
+    "appid": 1174180,
     "image": "https://cdn2.steamgriddb.com/grid/3940304b536796dcc176aa83203a3955.png",
     "download_url": "https://download.luamanifest.com/fixes/redded2.zip",
     "category": "Rockstar",
@@ -148,6 +169,7 @@
   },
   {
     "title": "Red Dead Redemption",
+    "appid": 2668510,
     "image": "https://cdn2.steamgriddb.com/grid/45d78d4521ce4fb03e1f3ca8ad8b3e4e.jpg",
     "download_url": "https://download.luamanifest.com/fixes/redded.zip",
     "category": "Rockstar",
@@ -155,6 +177,7 @@
   },
   {
     "title": "Grand Theft Auto 5 Enhanced",
+    "appid": 3240220,
     "image": "https://cdn2.steamgriddb.com/grid/f9b0b638437b75cf2be007631bd82704.png",
     "download_url": "https://download.luamanifest.com/fixes/gta5enhance.zip",
     "category": "Rockstar",
@@ -162,6 +185,7 @@
   },
   {
     "title": "Grand Theft Auto 5 Legacy",
+    "appid": 271590,
     "image": "https://cdn2.steamgriddb.com/grid/7a87609a1305e8c75748d20fd3a410ba.jpg",
     "download_url": "https://download.luamanifest.com/fixes/gta5.zip",
     "category": "Rockstar",
@@ -169,6 +193,7 @@
   },
   {
     "title": "GTA IV: San Andreas",
+    "appid": 12210,
     "image": "https://cdn2.steamgriddb.com/grid/76bb30110cab45e08d3b81d7bc2c2ee6.png",
     "download_url": "https://download.luamanifest.com/fixes/sanandreas.zip",
     "category": "Rockstar",
@@ -176,6 +201,7 @@
   },
   {
     "title": "Grand Theft Auto: Vice City",
+    "appid": 12110,
     "image": "https://cdn2.steamgriddb.com/grid/83733fa438d421bd912bff044069cae2.jpg",
     "download_url": "https://download.luamanifest.com/fixes/vicecity.zip",
     "category": "Rockstar",
@@ -183,6 +209,7 @@
   },
   {
     "title": "Grand Theft Auto III",
+    "appid": 12100,
     "image": "https://cdn2.steamgriddb.com/grid/b583e6d21e138edc7035c2a12424bad0.jpg",
     "download_url": "https://download.luamanifest.com/fixes/gta3.zip",
     "category": "Rockstar",
@@ -190,6 +217,7 @@
   },
   {
     "title": "Grand Theft Auto IV: The Complete Edition",
+    "appid": 12210,
     "image": "https://cdn2.steamgriddb.com/grid/a551f123e505d4d5d75058aae10e993b.png",
     "download_url": "https://download.luamanifest.com/fixes/gta4.zip",
     "category": "Rockstar",
@@ -197,6 +225,7 @@
   },
   {
     "title": "Bully",
+    "appid": 12200,
     "image": "https://cdn2.steamgriddb.com/grid/7ade52071e3d6841a7647a33ad49bf58.png",
     "download_url": "https://download.luamanifest.com/fixes/bullscholar.zip",
     "category": "Rockstar",
@@ -204,6 +233,7 @@
   },
   {
     "title": "Max Payne 3",
+    "appid": 204100,
     "image": "https://cdn2.steamgriddb.com/grid/ea344d40ba4d83dcb5e08328b1789614.png",
     "download_url": "https://download.luamanifest.com/fixes/maxpayne3.zip",
     "category": "Rockstar",
@@ -211,6 +241,7 @@
   },
   {
     "title": "L.A. Noire",
+    "appid": 110800,
     "image": "https://cdn2.steamgriddb.com/grid/a551f123e505d4d5d75058aae10e993b.png",
     "download_url": "https://download.luamanifest.com/fixes/lanoire.zip",
     "category": "Rockstar",
@@ -218,6 +249,7 @@
   },
   {
     "title": "EA Sports FIFA 23",
+    "appid": 1811260,
     "image": "https://cdn2.steamgriddb.com/grid/51e0f86b7cb74096e922bd52653bd235.png",
     "download_url": "https://download.luamanifest.com/fixes/fc23.zip",
     "category": "EA",
@@ -225,6 +257,7 @@
   },
   {
     "title": "EA Sports FIFA 22",
+    "appid": 1506830,
     "image": "https://cdn2.steamgriddb.com/grid/0c6b61e4af7d21d8ea380378ebacf897.jpg",
     "download_url": "https://download.luamanifest.com/fixes/fc22.zip",
     "category": "EA",
@@ -232,6 +265,7 @@
   },
   {
     "title": "Call of Duty: Black Ops Cold War (2020)",
+    "appid": 1985810,
     "image": "https://cdn2.steamgriddb.com/grid/2c3dd8064e75cdf11bc22399ec427e08.png",
     "download_url": "https://download.luamanifest.com/fixes/codcold.zip",
     "category": "Call of Duty",
@@ -239,6 +273,7 @@
   },
   {
     "title": "Call of Duty: Modern Warfare (2019)",
+    "appid": 2000950,
     "image": "https://cdn2.steamgriddb.com/grid/0bc22e1c47f26addd1907b4931e507b1.png",
     "download_url": "https://download.luamanifest.com/fixes/codmodernwarfare.zip",
     "category": "Call of Duty",
@@ -246,6 +281,7 @@
   },
   {
     "title": "Assassin's Creed Valhalla",
+    "appid": 2208920,
     "image": "https://cdn2.steamgriddb.com/grid/70d91733e8e78a47fd1a0fbdabea2d10.png",
     "download_url": "https://download.luamanifest.com/fixes/creedvalhalla.zip",
     "category": "Ubisoft",
@@ -253,6 +289,7 @@
   },
   {
     "title": "Assassin's Creed Odyssey",
+    "appid": 812140,
     "image": "https://cdn2.steamgriddb.com/grid/ddf36ce0658efd6eaaaddb4aa9de7c7e.png",
     "download_url": "https://download.luamanifest.com/fixes/creedodyssey.zip",
     "category": "Ubisoft",
@@ -260,6 +297,7 @@
   },
   {
     "title": "Assassin's Creed Origins",
+    "appid": 582160,
     "image": "https://cdn2.steamgriddb.com/grid/9376f903cd0fb4d4e72cb909bb528eeb.png",
     "download_url": "https://download.luamanifest.com/fixes/creedorigins.zip",
     "category": "Ubisoft",
@@ -267,6 +305,7 @@
   },
   {
     "title": "Far Cry 6",
+    "appid": 2369390,
     "image": "https://cdn2.steamgriddb.com/grid/2707b2f06a3967105746389278bdf01d.png",
     "download_url": "https://download.luamanifest.com/fixes/far6.zip",
     "category": "Ubisoft",
@@ -274,6 +313,7 @@
   },
   {
     "title": "Watch Dogs Legion",
+    "appid": 2239550,
     "image": "https://cdn2.steamgriddb.com/grid/eb216fc2f6911b5e281aad1a649d6779.png",
     "download_url": "https://download.luamanifest.com/fixes/dogslegion.zip",
     "category": "Ubisoft",
@@ -281,6 +321,7 @@
   },
   {
     "title": "HITMAN: World of Assassination",
+    "appid": 1659040,
     "image": "https://cdn2.steamgriddb.com/grid/e6c4a40570202964bc5c5ddb0e4d0b08.png",
     "download_url": "https://download.luamanifest.com/fixes/hitworld.zip",
     "category": "Other Games",
@@ -288,6 +329,7 @@
   },
   {
     "title": "Star Wars Jedi Fallen Order",
+    "appid": 1172380,
     "image": "https://cdn2.steamgriddb.com/grid/935a281a70ae21d54479c9c468145f7e.png",
     "download_url": "https://download.luamanifest.com/fixes/warsorder.zip",
     "category": "EA",
@@ -295,6 +337,7 @@
   },
   {
     "title": "Need For Speed Heat",
+    "appid": 1222680,
     "image": "https://cdn2.steamgriddb.com/grid/886f46b709dbf016d1b3b2b4205264bb.png",
     "download_url": "https://download.luamanifest.com/fixes/nfsheat.zip",
     "category": "EA",
@@ -302,6 +345,7 @@
   },
   {
     "title": "Far Cry New Dawn",
+    "appid": 939960,
     "image": "https://cdn2.steamgriddb.com/grid/b40b8640d077b91b1ca8c1f276074d3b.png",
     "download_url": "https://download.luamanifest.com/fixes/fardawn.zip",
     "category": "Ubisoft",
@@ -309,6 +353,7 @@
   },
   {
     "title": "Assassin's Creed III Remastered",
+    "appid": 911400,
     "image": "https://cdn2.steamgriddb.com/grid/f0ce59b6bf8e03499c788c348919a196.jpg",
     "download_url": "https://download.luamanifest.com/fixes/creed3remastered.zip",
     "category": "Ubisoft",
@@ -316,6 +361,7 @@
   },
   {
     "title": "Anno 1800",
+    "appid": 916440,
     "image": "https://cdn2.steamgriddb.com/grid/f769fd744eae67e2f26cfe2fbe435425.jpg",
     "download_url": "https://download.luamanifest.com/fixes/anno1800.zip",
     "category": "Ubisoft",
@@ -323,6 +369,7 @@
   },
   {
     "title": "The Crew 2",
+    "appid": 646910,
     "image": "https://cdn2.steamgriddb.com/grid/eb7e6c3cd80e5bf04ae8f662935ee8b0.png",
     "download_url": "https://download.luamanifest.com/fixes/crew2.zip",
     "category": "Ubisoft",
@@ -330,6 +377,7 @@
   },
   {
     "title": "A Way Out",
+    "appid": 1222700,
     "image": "https://cdn2.steamgriddb.com/grid/f933d5c2b1cf9fd42ec839ef9648bf46.png",
     "download_url": "https://download.luamanifest.com/fixes/wayout.zip",
     "category": "EA",
@@ -337,6 +385,7 @@
   },
   {
     "title": "Far Cry 5",
+    "appid": 552520,
     "image": "https://cdn2.steamgriddb.com/grid/c60b6031ae9ebbef03aa963a21ab7ef9.png",
     "download_url": "https://download.luamanifest.com/fixes/far5.zip",
     "category": "Ubisoft",
@@ -344,6 +393,7 @@
   },
   {
     "title": "Need For Speed Payback",
+    "appid": 1262580,
     "image": "https://cdn2.steamgriddb.com/grid/eac02989500c28b20989942e59addd74.png",
     "download_url": "https://download.luamanifest.com/fixes/nfspayback.zip",
     "category": "EA",
@@ -351,6 +401,7 @@
   },
   {
     "title": "Star Wars Battlefront II",
+    "appid": 1237950,
     "image": "https://cdn2.steamgriddb.com/grid/d4c0db523dd649b624b38df3adde8635.png",
     "download_url": "https://download.luamanifest.com/fixes/warsbattle.zip",
     "category": "EA",
@@ -358,6 +409,7 @@
   },
   {
     "title": "Call of Duty: Infinite Warfare (2016)",
+    "appid": 292730,
     "image": "https://cdn2.steamgriddb.com/grid/e4bc18644b10f231816f29fa9252d39b.png",
     "download_url": "https://download.luamanifest.com/fixes/codinfinite.zip",
     "category": "Call of Duty",
@@ -365,6 +417,7 @@
   },
   {
     "title": "Watch Dogs 2",
+    "appid": 447040,
     "image": "https://cdn2.steamgriddb.com/grid/5ec2d65d65ca11ff876c5e7f3db7da07.png",
     "download_url": "https://download.luamanifest.com/fixes/dogs2.zip",
     "category": "Ubisoft",
@@ -372,6 +425,7 @@
   },
   {
     "title": "Far Cry Primal",
+    "appid": 371660,
     "image": "https://cdn2.steamgriddb.com/grid/ba281f16f7fe27f2675f0bec200dfdc1.png",
     "download_url": "https://download.luamanifest.com/fixes/farprimal.zip",
     "category": "Ubisoft",
@@ -379,6 +433,7 @@
   },
   {
     "title": "Unravel 2",
+    "appid": 1225570,
     "image": "https://cdn2.steamgriddb.com/grid/9e2820cf5cac004ea701f2a1b891cac3.jpg",
     "download_url": "https://download.luamanifest.com/fixes/unravel2.zip",
     "category": "EA",
@@ -386,6 +441,7 @@
   },
   {
     "title": "Assassin's Creed Syndicate",
+    "appid": 368500,
     "image": "https://cdn2.steamgriddb.com/grid/5b23077b16d0623100496becc0951c2b.png",
     "download_url": "https://download.luamanifest.com/fixes/creedsyndicate.zip",
     "category": "Ubisoft",
@@ -393,6 +449,7 @@
   },
   {
     "title": "Unravel",
+    "appid": 1225560,
     "image": "https://cdn2.steamgriddb.com/grid/659b7cf906b8fd348ff333c167d8386d.jpg",
     "download_url": "https://download.luamanifest.com/fixes/unravel.zip",
     "category": "EA",
@@ -400,6 +457,7 @@
   },
   {
     "title": "Assassin's Creed Rogue",
+    "appid": 311560,
     "image": "https://cdn2.steamgriddb.com/grid/5248e753a98d3de4a6694e91fe90079f.png",
     "download_url": "https://download.luamanifest.com/fixes/creedrogue.zip",
     "category": "Ubisoft",
@@ -407,6 +465,7 @@
   },
   {
     "title": "Far Cry 4",
+    "appid": 298110,
     "image": "https://cdn2.steamgriddb.com/grid/62325c1f7b77fb45c3ac91790b4cd2d6.jpg",
     "download_url": "https://download.luamanifest.com/fixes/far4.zip",
     "category": "Ubisoft",
@@ -414,6 +473,7 @@
   },
   {
     "title": "Assassin's Creed Unity",
+    "appid": 289650,
     "image": "https://cdn2.steamgriddb.com/grid/2947007280adf8859edffdaf48e6e558.png",
     "download_url": "https://download.luamanifest.com/fixes/creedunity.zip",
     "category": "Ubisoft",
@@ -421,6 +481,7 @@
   },
   {
     "title": "Watch Dogs",
+    "appid": 243470,
     "image": "https://cdn2.steamgriddb.com/grid/4f89626165ff9607bfc8c6cff2fed560.png",
     "download_url": "https://download.luamanifest.com/fixes/dogs.zip",
     "category": "Ubisoft",
@@ -428,6 +489,7 @@
   },
   {
     "title": "The Crew",
+    "appid": 241560,
     "image": "https://cdn2.steamgriddb.com/grid/d2500d51d3ed0791852f4ea4b4a2cf03.png",
     "download_url": "https://download.luamanifest.com/fixes/crew.zip",
     "category": "Ubisoft",
@@ -435,6 +497,7 @@
   },
   {
     "title": "Call of Duty: Ghosts (2013)",
+    "appid": 209160,
     "image": "https://cdn2.steamgriddb.com/grid/78cbc0c1f39a9321021cf22ff93eeb43.png",
     "download_url": "http://209.46.127.241/fixes/codghosts.zip",
     "category": "Call of Duty",
@@ -442,6 +505,7 @@
   },
   {
     "title": "Assassin's Creed Black Flag",
+    "appid": 242050,
     "image": "https://cdn2.steamgriddb.com/grid/73273bfc99cf06ef1cbde5663b73704b.png",
     "download_url": "https://download.luamanifest.com/fixes/creedblack.zip",
     "category": "Ubisoft",
@@ -449,6 +513,7 @@
   },
   {
     "title": "Need For Speed Rivals",
+    "appid": 1262600,
     "image": "https://cdn2.steamgriddb.com/grid/47ce49be6ae7b918bc8744c9260a6d79.png",
     "download_url": "https://download.luamanifest.com/fixes/nfsrivals.zip",
     "category": "EA",
@@ -456,6 +521,7 @@
   },
   {
     "title": "Battlefield 4",
+    "appid": 1238860,
     "image": "https://cdn2.steamgriddb.com/grid/6ad4dec1934fe154ed0de1f5ce1c390d.png",
     "download_url": "https://download.luamanifest.com/fixes/battle4.zip",
     "category": "EA",
@@ -463,6 +529,7 @@
   },
   {
     "title": "Call of Duty: Black Ops II (2012)",
+    "appid": 202970,
     "image": "https://cdn2.steamgriddb.com/grid/853695e4fd475d6b482d94895c6b595d.jpg",
     "download_url": "https://download.luamanifest.com/fixes/codblackops2.zip",
     "category": "Call of Duty",
@@ -470,6 +537,7 @@
   },
   {
     "title": "Call of Duty: Black Ops III (2015)",
+    "appid": 311210,
     "image": "https://cdn2.steamgriddb.com/grid/c6b1eb5d688380d2e01a1b980bebc113.jpg",
     "download_url": "https://download.luamanifest.com/fixes/codblackops3.zip",
     "category": "Call of Duty",
@@ -477,6 +545,7 @@
   },
   {
     "title": "Hitman: Absolution",
+    "appid": 203140,
     "image": "https://cdn2.steamgriddb.com/grid/9e0e40a51b6ed794dbcfbd46410ba102.png",
     "download_url": "https://download.luamanifest.com/fixes/hitobs.zip",
     "category": "Other Games",
@@ -484,6 +553,7 @@
   },
   {
     "title": "Far Cry 3",
+    "appid": 220240,
     "image": "https://cdn2.steamgriddb.com/grid/5d4acfa10303c58039e94acd803e9482.png",
     "download_url": "https://download.luamanifest.com/fixes/far3.zip",
     "category": "Ubisoft",
@@ -491,6 +561,7 @@
   },
   {
     "title": "Assassin's Creed III",
+    "appid": 208480,
     "image": "https://cdn2.steamgriddb.com/grid/5d032420ce52894fa826e0fea5a60ac5.png",
     "download_url": "https://download.luamanifest.com/fixes/creed3.zip",
     "category": "Ubisoft",
@@ -498,6 +569,7 @@
   },
   {
     "title": "Need For Speed Most Wanted",
+    "appid": 1262560,
     "image": "https://cdn2.steamgriddb.com/grid/bcee397c146136f405865adcf1655207.png",
     "download_url": "https://download.luamanifest.com/fixes/nfswanted.zip",
     "category": "EA",
@@ -505,6 +577,7 @@
   },
   {
     "title": "Call of Duty: Modern Warfare 3 (2011)",
+    "appid": 42680,
     "image": "https://cdn2.steamgriddb.com/grid/0966a2a1d72914b40a6c29a88b44e104.jpg",
     "download_url": "https://download.luamanifest.com/fixes/codwarfare3.zip",
     "category": "Call of Duty",
@@ -512,6 +585,7 @@
   },
   {
     "title": "Assassin's Creed Revelations",
+    "appid": 201870,
     "image": "https://cdn2.steamgriddb.com/grid/105fb0578a9e90c458f69bad63c38709.png",
     "download_url": "https://download.luamanifest.com/fixes/creedrevelations.zip",
     "category": "Ubisoft",
@@ -519,6 +593,7 @@
   },
   {
     "title": "Battlefield 3",
+    "appid": 1238820,
     "image": "https://cdn2.steamgriddb.com/grid/9ed695254285a3b7379aa3e2694489e3.png",
     "download_url": "https://download.luamanifest.com/fixes/battle3.zip",
     "category": "EA",
@@ -526,6 +601,7 @@
   },
   {
     "title": "Call of Duty: Black Ops (2010)",
+    "appid": 42700,
     "image": "https://cdn2.steamgriddb.com/grid/b9b065288cf8d4eba8b9ac1ad9c52aaf.png",
     "download_url": "https://download.luamanifest.com/fixes/codblackops.zip",
     "category": "Call of Duty",
@@ -533,6 +609,7 @@
   },
   {
     "title": "Assasin's Creed Brotherhood",
+    "appid": 48190,
     "image": "https://cdn2.steamgriddb.com/grid/fc535d4ae8496bf8ed9e3cd8895f5b71.png",
     "download_url": "https://download.luamanifest.com/fixes/creedbrotherhood.zip",
     "category": "Ubisoft",
@@ -540,6 +617,7 @@
   },
   {
     "title": "Need For Speed Hot Pursuit",
+    "appid": 47870,
     "image": "https://cdn2.steamgriddb.com/grid/5835919ffe314c3277b98f9a996c736f.png",
     "download_url": "https://download.luamanifest.com/fixes/nfspursuit.zip",
     "category": "EA",
@@ -547,6 +625,7 @@
   },
   {
     "title": "Need For Speed Hot Pursuit Remastered",
+    "appid": 1328660,
     "image": "https://cdn2.steamgriddb.com/grid/5e989f5faae3f2a74ef488a4a3402315.jpg",
     "download_url": "https://download.luamanifest.com/fixes/nfspursuitremastered.zip",
     "category": "EA",
@@ -554,6 +633,7 @@
   },
   {
     "title": "Call of Duty: Modern Warfare 2 (2009)",
+    "appid": 10180,
     "image": "https://cdn2.steamgriddb.com/grid/0be0cde05c6adb6ffd4a6cdd81f64bfc.png",
     "download_url": "https://download.luamanifest.com/fixes/codwarfare2.zip",
     "category": "Call of Duty",
@@ -561,6 +641,7 @@
   },
   {
     "title": "Assasin's Creed II",
+    "appid": 33230,
     "image": "https://cdn2.steamgriddb.com/grid/30a53d130bbe822d676ababadbd3fffd.png",
     "download_url": "https://download.luamanifest.com/fixes/creed2.zip",
     "category": "Ubisoft",
@@ -568,6 +649,7 @@
   },
   {
     "title": "Call of Duty 4: Modern Warfare (2007)",
+    "appid": 7940,
     "image": "https://cdn2.steamgriddb.com/grid/b3049ee4f30b41fa9f41d88a0068f65c.png",
     "download_url": "https://download.luamanifest.com/fixes/cod4warfare.zip",
     "category": "Call of Duty",
@@ -575,6 +657,7 @@
   },
   {
     "title": "Assassin's Creed Chronicles China",
+    "appid": 354380,
     "image": "https://cdn2.steamgriddb.com/grid/38a9dbfce0500ac32fa4092cf609e572.png",
     "download_url": "https://download.luamanifest.com/fixes/creedchina.zip",
     "category": "Ubisoft",
@@ -582,6 +665,7 @@
   },
   {
     "title": "Assassin's Creed Chronicles India",
+    "appid": 359610,
     "image": "https://cdn2.steamgriddb.com/grid/05761d7cd3d824ac6da56e12eb7c8c6f.png",
     "download_url": "https://download.luamanifest.com/fixes/creedindia.zip",
     "category": "Ubisoft",
@@ -589,6 +673,7 @@
   },
   {
     "title": "EA Sports FIFA 21",
+    "appid": 1313860,
     "image": "https://cdn2.steamgriddb.com/grid/ac19070e144db79b32ac87b88e1d7b19.png",
     "download_url": "https://download.luamanifest.com/fixes/fc21.zip",
     "category": "EA",
@@ -596,6 +681,7 @@
   },
   {
     "title": "Just Cause 4",
+    "appid": 517630,
     "image": "https://cdn2.steamgriddb.com/grid/f87056faf9477c07421e2502f7a0b634.png",
     "download_url": "https://download.luamanifest.com/fixes/cause4.zip",
     "category": "Denuvo",
@@ -603,6 +689,7 @@
   },
   {
     "title": "Call of Duty: Modern Warfare II (2022)",
+    "appid": 3595230,
     "image": "https://cdn2.steamgriddb.com/grid/5cef43602bc7486da26ba5fbf4483f43.png",
     "download_url": "https://download.luamanifest.com/fixes/codwarf2.zip",
     "category": "Call of Duty",
@@ -610,6 +697,7 @@
   },
   {
     "title": "Suicide Squad: Kill the Justice League",
+    "appid": 315210,
     "image": "https://cdn2.steamgriddb.com/grid/0ac66b3806607638f8638470c9ed2584.jpg",
     "download_url": "https://download.luamanifest.com/fixes/suisquad.zip",
     "category": "Denuvo",
@@ -617,6 +705,7 @@
   },
   {
     "title": "Metal Gear Solid V: The Phantom Pain",
+    "appid": 287700,
     "image": "https://cdn2.steamgriddb.com/grid/a2959d14ad418268c4ecf73fb183ab8f.png",
     "download_url": "https://download.luamanifest.com/fixes/gear5.zip",
     "category": "Denuvo",
@@ -624,6 +713,7 @@
   },
   {
     "title": "Persona 5 Royal",
+    "appid": 1687950,
     "image": "https://cdn2.steamgriddb.com/grid/78b22a52a1e53b0d2e27e6b40569793a.png",
     "download_url": "https://download.luamanifest.com/fixes/royal5.zip",
     "category": "Denuvo",
@@ -631,6 +721,7 @@
   },
   {
     "title": "EA Sports F1 2021",
+    "appid": 1134570,
     "image": "https://cdn2.steamgriddb.com/grid/c5748b170c9da250a27b4647d7126c8e.jpg",
     "download_url": "https://download.luamanifest.com/fixes/f121.zip",
     "category": "EA",
@@ -638,6 +729,7 @@
   },
   {
     "title": "Call of Duty: Black Ops 6 (2024)",
+    "appid": 4384550,
     "image": "https://cdn2.steamgriddb.com/grid/ccd427e9a45f148777fe91e6850bf8eb.png",
     "download_url": "https://download.luamanifest.com/fixes/codblackops6.zip",
     "category": "Call of Duty",
@@ -645,6 +737,7 @@
   },
   {
     "title": "Call of Duty: Modern Warfare III (2023)",
+    "appid": 3595270,
     "image": "https://cdn2.steamgriddb.com/grid/195937291747b2e880332a3c41d8a856.jpg",
     "download_url": "https://download.luamanifest.com/fixes/codwarfare32023.zip",
     "category": "Call of Duty",
@@ -652,6 +745,7 @@
   },
   {
     "title": "EA Sports F1 2022",
+    "appid": 1692250,
     "image": "https://cdn2.steamgriddb.com/grid/c577d5afd3bfbfaba4db16712cf70793.png",
     "download_url": "https://download.luamanifest.com/fixes/f122.zip",
     "category": "EA",
@@ -659,6 +753,7 @@
   },
   {
     "title": "Cricket 26",
+    "appid": 3468650,
     "image": "https://cdn2.steamgriddb.com/grid/1e978fae39a31c3650901799a99affe8.png",
     "download_url": "https://download.luamanifest.com/fixes/cricket26.zip",
     "category": "Denuvo",
@@ -666,6 +761,7 @@
   },
   {
     "title": "Sonic Colors: Ultimate",
+    "appid": 2055290,
     "image": "https://cdn2.steamgriddb.com/grid/5ebe6e8bcf5f8b19e076b337d97e5bb1.png",
     "download_url": "https://download.luamanifest.com/fixes/soniccolors.zip",
     "category": "Denuvo",
@@ -673,6 +769,7 @@
   },
   {
     "title": "Sonic Frontiers",
+    "appid": 1237320,
     "image": "https://cdn2.steamgriddb.com/grid/751802ce1a5754049f264a4dc6ee7d26.png",
     "download_url": "https://download.luamanifest.com/fixes/frontiers.zip",
     "category": "Denuvo",
@@ -680,6 +777,7 @@
   },
   {
     "title": "Life Is Strange 2",
+    "appid": 532210,
     "image": "https://cdn2.steamgriddb.com/grid/bfdbc30f191c77257fc190c480a56ca2.png",
     "download_url": "https://download.luamanifest.com/fixes/lifeisstrange2.zip",
     "category": "Denuvo",
@@ -687,6 +785,7 @@
   },
   {
     "title": "Total War: Three Kingdoms",
+    "appid": 779340,
     "image": "https://cdn2.steamgriddb.com/grid/707001abcb9e0f72f2123b16c3e9d4fd.png",
     "download_url": "https://download.luamanifest.com/fixes/totalwar.zip",
     "category": "Denuvo",
@@ -694,6 +793,7 @@
   },
   {
     "title": "Dead Space Remake",
+    "appid": 1693980,
     "image": "https://cdn2.steamgriddb.com/grid/3d3e6a285df1453def97c371340ac7e2.png",
     "download_url": "https://download.luamanifest.com/fixes/deadspace.zip",
     "category": "EA",
@@ -701,6 +801,7 @@
   },
   {
     "title": "Microsoft Flight Simulator (2020)",
+    "appid": 1250410,
     "image": "https://cdn2.steamgriddb.com/grid/dc7a2c77b3d50d2023aaee921bc3a899.png",
     "download_url": "https://download.luamanifest.com/fixes/flightsimulator.zip",
     "category": "Other Games",
@@ -708,6 +809,7 @@
   },
   {
     "title": "DOOM Eternal",
+    "appid": 782330,
     "image": "https://cdn2.steamgriddb.com/grid/c850eeb5c932d04621582f20d0160138.png",
     "download_url": "https://download.luamanifest.com/fixes/eternal.zip",
     "category": "Other Games",
@@ -715,6 +817,7 @@
   },
   {
     "title": "Jurassic World Evolution 2",
+    "appid": 1244460,
     "image": "https://cdn2.steamgriddb.com/grid/8ee27af947633dccc1a6ba2d9a54b876.png",
     "download_url": "https://download.luamanifest.com/fixes/jurassicworld2.zip",
     "category": "Denuvo",
@@ -722,6 +825,7 @@
   },
   {
     "title": "Age of Empires IV",
+    "appid": 1466860,
     "image": "https://cdn2.steamgriddb.com/grid/b85db3a44a26fd02c08d87f252cc52ba.jpg",
     "download_url": "https://download.luamanifest.com/fixes/age4.zip",
     "category": "Other Games",
@@ -729,6 +833,7 @@
   },
   {
     "title": "The King of Fighters XV",
+    "appid": 1498570,
     "image": "https://cdn2.steamgriddb.com/grid/3e673cb0db3971bad654a2ce13e3642b.png",
     "download_url": "https://download.luamanifest.com/fixes/kingoffighters.zip",
     "category": "Other Games",
@@ -736,6 +841,7 @@
   },
   {
     "title": "Disney Dreamlight Valley",
+    "appid": 1401590,
     "image": "https://cdn2.steamgriddb.com/grid/64609dbe7a4a89ce46cd05803918afe4.jpg",
     "download_url": "https://download.luamanifest.com/fixes/dreamlight.zip",
     "category": "Other Games",
@@ -743,6 +849,7 @@
   },
   {
     "title": "South Park The Fractured But Whole",
+    "appid": 488790,
     "image": "https://cdn2.steamgriddb.com/grid/c903e47a18a40c4564c11d4924fcbe7d.jpg",
     "download_url": "https://download.luamanifest.com/fixes/SouthParkTFBW.zip",
     "category": "Ubisoft",
@@ -750,6 +857,7 @@
   },
   {
     "title": "Just Dance 2017",
+    "appid": 446560,
     "image": "https://cdn2.steamgriddb.com/grid/4dad75d2365dedf73aa94b7606de7426.png",
     "download_url": "https://download.luamanifest.com/fixes/justdance.zip",
     "category": "Ubisoft",
@@ -757,6 +865,7 @@
   },
   {
     "title": "Deadpool",
+    "appid": 224060,
     "image": "https://cdn2.steamgriddb.com/grid/7c78b12691f2b2a94639b7674eba07e4.png",
     "download_url": "https://download.luamanifest.com/fixes/deadpool.zip",
     "category": "Other Games",
@@ -764,6 +873,7 @@
   },
   {
     "title": "Riders Republic",
+    "appid": 2290180,
     "image": "https://cdn2.steamgriddb.com/grid/da9f2c6651b84f7db75ae55d6e372103.png",
     "download_url": "https://download.luamanifest.com/fixes/ridersrepublic.zip",
     "category": "Ubisoft",
@@ -771,6 +881,7 @@
   },
   {
     "title": "Dragon Ball Fighter Z",
+    "appid": 678950,
     "image": "https://cdn2.steamgriddb.com/grid/a213ed23c193d414334a64ddf47c9f27.jpg",
     "download_url": "https://download.luamanifest.com/fixes/dragonball.zip",
     "category": "Other Games",
@@ -778,6 +889,7 @@
   },
   {
     "title": "Middle-earth: Shadow of War",
+    "appid": 356190,
     "image": "https://cdn2.steamgriddb.com/grid/1abf69fdc0363078003b5548bf4abe1f.png",
     "download_url": "https://download.luamanifest.com/fixes/shadowatwar.zip",
     "category": "Denuvo",
@@ -785,6 +897,7 @@
   },
   {
     "title": "Dragon Age Inquisition",
+    "appid": 1222690,
     "image": "https://cdn2.steamgriddb.com/grid/c4fc1713a1f3b38c26d95c3a9fa844e7.png",
     "download_url": "https://download.luamanifest.com/fixes/dragonage.zip",
     "category": "Denuvo",
@@ -792,6 +905,7 @@
   },
   {
     "title": "A Plague Tale: Innocence",
+    "appid": 752590,
     "image": "https://cdn2.steamgriddb.com/grid/091a1aa46bb16510f4577315228cebfc.jpg",
     "download_url": "https://download.luamanifest.com/fixes/innocence.zip",
     "category": "Other Games",
@@ -799,6 +913,7 @@
   },
   {
     "title": "Le Mans Ultimate",
+    "appid": 2399420,
     "image": "https://cdn2.steamgriddb.com/grid/239ed4005a182f7d7654afedeb2e3fb6.png",
     "download_url": "https://download.luamanifest.com/fixes/lemansultimate.zip",
     "category": "Other Games",
@@ -806,6 +921,7 @@
   },
   {
     "title": "Planet Coaster",
+    "appid": 493340,
     "image": "https://cdn2.steamgriddb.com/grid/c1e40c8ad1582769a2e1d15d3bc01cc4.png",
     "download_url": "https://download.luamanifest.com/fixes/coaster.zip",
     "category": "Denuvo",
@@ -813,6 +929,7 @@
   },
   {
     "title": "DOOM: The Dark Ages",
+    "appid": 3017860,
     "image": "https://cdn2.steamgriddb.com/grid/8ea0329e385f393ba78cf71a82c031d9.png",
     "download_url": "https://download.luamanifest.com/fixes/doomdarkages.zip",
     "category": "Denuvo",
@@ -820,6 +937,7 @@
   },
   {
     "title": "Tom Clancy's Ghost Recon Wildlands",
+    "appid": 460930,
     "image": "https://cdn2.steamgriddb.com/grid/fcea6e920ac9ff8934f06477582922c1.png",
     "download_url": "https://download.luamanifest.com/fixes/wildlands.zip",
     "category": "Ubisoft",
@@ -827,6 +945,7 @@
   },
   {
     "title": "Atomic Heart",
+    "appid": 668580,
     "image": "https://cdn2.steamgriddb.com/grid/53f249d8ba9cfab41868236dead77aba.jpg",
     "download_url": "https://download.luamanifest.com/fixes/atomic.zip",
     "category": "Denuvo",
@@ -834,6 +953,7 @@
   },
   {
     "title": "God of War Ragnarok",
+    "appid": 2322010,
     "image": "https://cdn2.steamgriddb.com/grid/fd93fd1de50e084dd7d3b0b9f6950450.png",
     "download_url": "https://download.luamanifest.com/fixes/ragnarok.zip",
     "category": "Other Games",
