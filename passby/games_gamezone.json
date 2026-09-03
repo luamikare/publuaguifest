@@ -966,5 +966,13 @@
     "download_url": "https://download.luamanifest.com/fixes/ragnarok.zip",
     "category": "Other Games",
     "description": ""
+  },
+  {
+    "title": "Dragon's Dogma 2",
+    "appid": 2054970,
+    "image": "https://cdn2.steamgriddb.com/grid/9486785728bc8131e46cd6d32af04862.jpg",
+    "download_url": "https://download.luamanifest.com/fixes/dogma2.zip",
+    "category": "Other Games",
+    "description": ""
   }
 ]
