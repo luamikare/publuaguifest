@@ -998,5 +998,13 @@
     "download_url": "https://download.luamanifest.com/fixes/persona3.zip",
     "category": "Denuvo",
     "description": ""
+  },
+  {
+    "title": "Star Wars Outlaws",
+    "appid": 2842040,
+    "image": "https://cdn2.steamgriddb.com/grid/9cddcc96feade261665f0a3ef5dbe6ea.png",
+    "download_url": "https://download.luamanifest.com/fixes/starwars.zip",
+    "category": "Ubisoft",
+    "description": ""
   }
 ]
