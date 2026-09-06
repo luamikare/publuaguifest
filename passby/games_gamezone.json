@@ -974,5 +974,29 @@
     "download_url": "https://download.luamanifest.com/fixes/dogma2.zip",
     "category": "Other Games",
     "description": ""
+  },
+  {
+    "title": "Mortal Kombat 1",
+    "appid": 1971870,
+    "image": "https://cdn2.steamgriddb.com/grid/ee518a68d0a28d15ef08325f0a86a576.jpg",
+    "download_url": "https://download.luamanifest.com/fixes/mortal1.zip",
+    "category": "Denuvo",
+    "description": ""
+  },
+  {
+    "title": "Prince of Persia The Lost Crown",
+    "appid": 2751000,
+    "image": "https://cdn2.steamgriddb.com/grid/4bdc756c3e62c186cb05dc1cd927ec76.png",
+    "download_url": "https://download.luamanifest.com/fixes/prince.zip",
+    "category": "Ubisoft",
+    "description": ""
+  },
+  {
+    "title": "Persona 3 Reload",
+    "appid": 2161700,
+    "image": "https://cdn2.steamgriddb.com/grid/77b6d113f1e6bce6b6f68b6a67206c0d.png",
+    "download_url": "https://download.luamanifest.com/fixes/persona3.zip",
+    "category": "Denuvo",
+    "description": ""
   }
 ]
