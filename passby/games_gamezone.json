@@ -1014,5 +1014,13 @@
     "download_url": "https://download.luamanifest.com/fixes/carx.zip",
     "category": "Other Games",
     "description": ""
+  },
+  {
+    "title": "CONTROL Resonant",
+    "appid": 3669870,
+    "image": "https://cdn2.steamgriddb.com/grid/eb6f134fbaf1c8e469b4b55fdd2eb951.png",
+    "download_url": "https://download.luamanifest.com/fixes/controlresonant.zip",
+    "category": "Other Games",
+    "description": ""
   }
 ]
