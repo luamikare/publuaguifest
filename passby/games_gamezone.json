@@ -1,5 +1,13 @@
 [
   {
+    "title": "FC 27",
+    "appid": 4080220,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoyifTPMhfgrnFS4rQptnlzD170f-0cGcrnv2XQKro8WD94CNEZob265Z0",
+    "download_url": "https://download.luamanifest.com/fixes/fc27.zip",
+    "category": "EA",
+    "description": "Run update_token.bat and play via FC27.exe"
+  },
+  {
     "title": "NBA 2K27",
     "appid": 4356430,
     "image": "https://cdn2.steamgriddb.com/grid/41f111384c98a213f4b187cf3e952245.png",
@@ -125,14 +133,6 @@
     "image": "https://cdn2.steamgriddb.com/grid/0e4b1c1efa3eae61066f2fefe7bdf487.png",
     "download_url": "https://download.luamanifest.com/fixes/legobatman.zip",
     "category": "Other Games",
-    "description": ""
-  },
-  {
-    "title": "EA Sports FC 26 Showcase",
-    "appid": 3629260,
-    "image": "https://cdn2.steamgriddb.com/grid/484b32fe2022ee1feb6d4eeccd56a7a9.png",
-    "download_url": "https://download.luamanifest.com/fixes/BypassFC26Showcase.zip",
-    "category": "EA",
     "description": ""
   },
   {
