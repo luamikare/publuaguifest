@@ -1,5 +1,13 @@
 [
   {
+    "title": "The Adventures of Elliot: The Millennium Tales",
+    "appid": 3483510,
+    "image": "https://cdn2.steamgriddb.com/grid/4deba7698bef10f63781e68bad988aa9.png",
+    "download_url": "https://download.luamanifest.com/fixes/adventureselliot.zip",
+    "category": "Denuvo",
+    "description": ""
+  },
+  {
     "title": "FC 27",
     "appid": 4407750,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoyifTPMhfgrnFS4rQptnlzD170f-0cGcrnv2XQKro8WD94CNEZob265Z0",
@@ -1021,6 +1029,14 @@
     "image": "https://cdn2.steamgriddb.com/grid/eb6f134fbaf1c8e469b4b55fdd2eb951.png",
     "download_url": "https://download.luamanifest.com/fixes/controlresonant.zip",
     "category": "Other Games",
+    "description": ""
+  },
+  {
+    "title": "Atomfall",
+    "appid": 801800,
+    "image": "https://cdn2.steamgriddb.com/grid/bf3f18f0fe935b342183d8d201816ae5.png",
+    "download_url": "https://download.luamanifest.com/fixes/atomfall.zip",
+    "category": "Denuvo",
     "description": ""
   }
 ]
