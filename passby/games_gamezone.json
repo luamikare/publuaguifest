@@ -6,7 +6,22 @@
     "download_url": "https://download.luamanifest.com/fixes/adventureselliot.zip",
     "category": "Denuvo",
     "description": ""
+  },{
+    "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+    "appid": 1490890,
+    "image": "https://cdn2.steamgriddb.com/grid/246ce19d396358e960b9f9a718992143.png",
+    "download_url": "https://download.luamanifest.com/fixes/demonslayer.zip",
+    "category": "Denuvo",
+    "description": ""
   },
+  {
+    "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+    "appid": 2928600,
+    "image": "https://cdn2.steamgriddb.com/grid/76f5474330dfd232e4372c501e859cff.jpg",
+    "download_url": "https://download.luamanifest.com/fixes/demonslayer2.zip",
+    "category": "Denuvo",
+    "description": ""
+  }
   {
     "title": "FC 27",
     "appid": 4407750,
