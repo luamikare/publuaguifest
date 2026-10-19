@@ -6,7 +6,8 @@
     "download_url": "https://download.luamanifest.com/fixes/adventureselliot.zip",
     "category": "Denuvo",
     "description": ""
-  },{
+  },
+  {
     "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
     "appid": 1490890,
     "image": "https://cdn2.steamgriddb.com/grid/246ce19d396358e960b9f9a718992143.png",
@@ -1055,3 +1056,5 @@
     "description": ""
   }
 ]
+
+
