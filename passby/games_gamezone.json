@@ -1,5 +1,13 @@
 [
   {
+    "title": "Borderlands 4",
+    "appid": 1285190,
+    "image": "https://cdn2.steamgriddb.com/grid/bc129f9aa5ae3cee6db6faf3c5077b12-fakepng.png",
+    "download_url": "https://download.luamanifest.com/fixes/borderlands4.zip",
+    "category": "Denuvo",
+    "description": ""
+  },
+  {
     "title": "Call of Duty: Modern Warfare 4",
     "appid": 4435490,
     "image": "https://cdn2.steamgriddb.com/grid/3209f4a64efad83e9caaf1ff0431743b-fakepng.png",
