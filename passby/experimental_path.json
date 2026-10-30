@@ -1,0 +1,8 @@
+{
+  "patches": [
+    {
+      "target_folder": "platform/steam",
+      "download_link": "https://example.com/patches/experimental.zip"
+    }
+  ]
+}
