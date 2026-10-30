@@ -2,6 +2,7 @@
   "patches": [
     {
       "target_folder": "platform/steam",
+      "reya_path": "platform/steam",
       "download_link": "https://raw.githubusercontent.com/luamikare/publuaguifest/main/passby/SteamAPI_V2.zip"
     }
   ]
