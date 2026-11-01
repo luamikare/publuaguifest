@@ -1,5 +1,13 @@
 [
   {
+    "title": "Onimusha: Way of the Sword",
+    "appid": 2638890,
+    "image": "https://cdn2.steamgriddb.com/grid/a3962c0ca7ca8033daaa9fac886e90b8.jpg",
+    "download_url": "https://download.luamanifest.com/fixes/onimusha.zip",
+    "category": "Denuvo",
+    "description": ""
+  },
+  {
     "title": "Borderlands 4",
     "appid": 1285190,
     "image": "https://cdn2.steamgriddb.com/grid/bc129f9aa5ae3cee6db6faf3c5077b12-fakepng.png",
