@@ -8,6 +8,14 @@
     "description": "Play via FC27.exe not Steam"
   },
   {
+    "title": "STAR WARS: Galactic Racer",
+    "appid": 4078430,
+    "image": "https://cdn2.steamgriddb.com/grid/a592d9fe5ade10553913fb1b94f1175c.png",
+    "download_url": "https://download.luamanifest.com/fixes/starwarsgalactic.zip",
+    "category": "Denuvo",
+    "description": ""
+  },
+  {
     "title": "Onimusha: Way of the Sword",
     "appid": 2638890,
     "image": "https://cdn2.steamgriddb.com/grid/a3962c0ca7ca8033daaa9fac886e90b8.jpg",
